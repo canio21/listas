@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="" group-title="SPANISH",LA 1 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=355&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="" group-title="SPANISH",LA 2
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=421&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="SPANISH",ANTENA 3 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=348&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="" group-title="SPANISH",CUATRO HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=351&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="" group-title="SPANISH",TELECINCO HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=374&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="" group-title="SPANISH",LA SEXTA HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=356&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="SPANISH",#0 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=378&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOSHD" tvg-logo="" group-title="SPANISH",#VAMOSHD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=379&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="" group-title="SPANISH",24 HORAS
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=380&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPANISH",
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26214&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="" group-title="SPANISH",M. SERIES HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=368&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES 2 HD" tvg-logo="" group-title="SPANISH",M. SERIES 2 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3803&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="SPANISH",FOX HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=353&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="SPANISH",AXN HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=349&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="SPANISH",TNT HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=375&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYCENTRALHD" tvg-logo="" group-title="SPANISH",COMEDYCENTRALHD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=405&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="SPANISH",CALLE 13 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=350&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="SPANISH",COSMO HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=406&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="SPANISH",AMC HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=347&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="SPANISH",FOX LIFE HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=416&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="SPANISH",AXN WHITE HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=382&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="SPANISH",SYFY HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=372&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPANISH",
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26143&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="MTV ESPAÑA" tvg-logo="" group-title="SPANISH",MTV ESPAÑA
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=447&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPANISH",
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26215&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="" group-title="SPANISH",Neox
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3851&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="Atreseries HD" tvg-logo="" group-title="SPANISH",Atreseries
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=25865&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="Energy" tvg-logo="" group-title="SPANISH",Energy
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3840&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPANISH",
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26145&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS HD" tvg-logo="" group-title="SPANISH",M.ESTRENOSHD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3805&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M.CineDocRoll" tvg-logo="" group-title="SPANISH",M.CineDoc&Roll
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3850&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Disney +" tvg-logo="" group-title="SPANISH",Disney+
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26215&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="" group-title="SPANISH",M. ACCIÓN HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=358&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA HD" tvg-logo="" group-title="SPANISH",M.COMEDIA HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3804&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA HD" tvg-logo="" group-title="SPANISH",M. DRAMA HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=360&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. Cine Español" tvg-logo="" group-title="SPANISH",M. Cine Español
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3847&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="SPANISH",TCM HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3813&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="SPANISH",HOLLYWOODHD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3796&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" group-title="SPANISH",SUNDANCE TV
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3856&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DARK" tvg-logo="" group-title="SPANISH",24/7 DARK
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26251&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="SPANISH",TRECE
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=25853&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="" group-title="SPANISH",TEN
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=25869&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="" group-title="SPANISH",PARAMOUNT
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3855&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 2" tvg-logo="" group-title="SPANISH",New Alquiler 2
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26144&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4" tvg-logo="" group-title="SPANISH",New Alquiler 4
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26146&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" group-title="SPANISH",M. LaLiga HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26042&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 1 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26043&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 2 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26045&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 3 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26044&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26078&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON1" tvg-logo="" group-title="SPANISH",M.LCAMPEON1
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=438&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON2" tvg-logo="" group-title="SPANISH",M.LCAMPEON2
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=439&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTE HD" tvg-logo="" group-title="SPANISH",M. DEPORTESHD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3800&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 1 HD" tvg-logo="" group-title="SPANISH",M. DEPORTES1HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=427&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 2" tvg-logo="" group-title="SPANISH",M. DEPORTES2
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=428&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 3" tvg-logo="" group-title="SPANISH",M. DEPORTES3
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=429&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="" group-title="SPANISH",M. GOLF HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3802&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="SPANISH",DAZN F1 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26627&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="SPANISH",DAZN 1 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=26623&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="SPANISH",DAZN 2 HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=24922&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1HD" tvg-logo="" group-title="SPANISH",EUROSPORT1HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3794&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT2HD" tvg-logo="" group-title="SPANISH",EUROSPORT2HD
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=414&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" group-title="SPANISH",GOL
+http://8eaa11281dc3b9d193fb61d4cf53745c.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=196264&s=CT4Z2RYWEL&id=3843&h=740cce28ea4de47263fe449ea54edc4baa851645&n=1620148143&i=80.31.251.164|User-Agent=VLC
