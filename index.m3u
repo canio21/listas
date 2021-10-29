@@ -32,9 +32,9 @@ http://carre.flysat.live:80/152093736431417/152086561035454/171984|User-Agent=VL
 #EXTINF:-1 tvg-id="" tvg-name="COMEDYCENTRALHD" tvg-logo="" group-title="SPANISH",COMEDYCENTRALHD
 http://carre.flysat.live:80/152093736431417/152086561035454/172002|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="SPANISH",CALLE 13 HD
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
+http://carre.flysat.live:80/152093736431417/152086561035454/171981|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="SPANISH",COSMO HD
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
+http://carre.flysat.live:80/152093736431417/152086561035454/171975|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="SPANISH",AMC HD
 http://carre.flysat.live:80/152093736431417/152086561035454/171991|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="SPANISH",FOX LIFE HD
@@ -74,21 +74,11 @@ http://carre.flysat.live:80/152093736431417/152086561035454/171948|User-Agent=VL
 #EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="SPANISH",TCM HD
 http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="SPANISH",HOLLYWOODHD
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
+http://carre.flysat.live:80/152093736431417/152086561035454/172011|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" group-title="SPANISH",SUNDANCE TV
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="24/7 DARK" tvg-logo="" group-title="SPANISH",24/7 DARK
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="SPANISH",TRECE
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="" group-title="SPANISH",TEN
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
+http://carre.flysat.live:80/152093736431417/152086561035454/171930|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="" group-title="SPANISH",PARAMOUNT
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 2" tvg-logo="" group-title="SPANISH",New Alquiler 2
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4" tvg-logo="" group-title="SPANISH",New Alquiler 4
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
+http://carre.flysat.live:80/152093736431417/152086561035454/171924|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" group-title="SPANISH",M. LaLiga HD
 http://carre.flysat.live:80/152093736431417/152086561035454/171969|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 1 HD
@@ -98,7 +88,7 @@ http://carre.flysat.live:80/152093736431417/152086561035454/171952|User-Agent=VL
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 3 HD
 http://carre.flysat.live:80/152093736431417/152086561035454/171951|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
+http://carre.flysat.live:80/152093736431417/152086561035454/79309|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON1" tvg-logo="" group-title="SPANISH",M.LCAMPEON1
 http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON2" tvg-logo="" group-title="SPANISH",M.LCAMPEON2
@@ -119,6 +109,10 @@ http://carre.flysat.live:80/152093736431417/152086561035454/171954|User-Agent=VL
 http://carre.flysat.live:80/152093736431417/152086561035454/171958|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="SPANISH",DAZN 2 HD
 http://carre.flysat.live:80/152093736431417/152086561035454/171957|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="SPANISH",DAZN 3 HD
+http://carre.flysat.live:80/152093736431417/152086561035454/171956|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="SPANISH",DAZN 4 HD
+http://carre.flysat.live:80/152093736431417/152086561035454/171955|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1HD" tvg-logo="" group-title="SPANISH", EUROSPORT1HD
 http://carre.flysat.live:80/152093736431417/152086561035454/171968|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT2HD" tvg-logo="" group-title="SPANISH",EUROSPORT2HD
@@ -141,7 +135,7 @@ http://carre.flysat.live:80/152093736431417/152086561035454/79300|User-Agent=VLC
 http://carre.flysat.live:80/152093736431417/152086561035454/171927|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="" group-title="SPANISH",NG WILD HD
 http://carre.flysat.live:80/152093736431417/152086561035454/171925|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="Historia FULL HD" tvg-logo="" group-title="SPANISH",Historia FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="Historia HD" tvg-logo="" group-title="SPANISH",Historia HD
 http://carre.flysat.live:80/152093736431417/152086561035454/171921|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="The Discovery" tvg-logo="" group-title="VOD ES",The Discovery
 http://carre.flysat.live:80/152093736431417/152086561035454/79260|User-Agent=VLC
@@ -189,3 +183,9 @@ http://carre.flysat.live:80/152093736431417/152086561035454/172013|User-Agent=VL
 http://carre.flysat.live:80/152093736431417/152086561035454/79274|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="SPANISH",MEZZO LIVE HD
 http://carre.flysat.live:80/152093736431417/152086561035454/79273|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="" group-title="SPANISH",XTRM
+http://carre.flysat.live:80/152093736431417/152086561035454/79341|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="" group-title="SPANISH",Dreamworks
+http://carre.flysat.live:80/152093736431417/152086561035454/79332|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="MTV OOs" tvg-logo="" group-title="SPANISH",MTV OOs
+http://carre.flysat.live:80/152093736431417/152086561035454/171923|User-Agent=VLC
