@@ -24,7 +24,7 @@ http://297762590384321115.of1207.xyz:80/play/ja125625/M4SthppsWMF/321115.ts/1719
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="SPANISH",TNT HD
 http://297762590384321442.of1207.xyz:80/play/ja125625/M4SthppsWMF/321442.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="COMEDYCENTRALHD" tvg-logo="" group-title="SPANISH",COMEDYCENTRALHD
-http://carre.flysat.live:80/152093736431417/152086561035454/172002|User-Agent=VLC
+http://297762590384321183.of1207.xyz:80/play/ja125625/M4SthppsWMF/321183.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="SPANISH",CALLE 13 HD
 http://297762590384321138.of1207.xyz:80/play/ja125625/M4SthppsWMF/321138.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="SPANISH",COSMO HD
@@ -32,27 +32,23 @@ http://297762590384321187.of1207.xyz:80/play/ja125625/M4SthppsWMF/321187.ts|User
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="SPANISH",AMC HD
 http://297762590384321102.of1207.xyz:80/play/ja125625/M4SthppsWMF/321102.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="SPANISH",FOX LIFE HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171993|User-Agent=VLC
+http://297762590384336315.of1207.xyz:80/play/ja125625/M4SthppsWMF/336315.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="SPANISH",AXN WHITE HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171987|User-Agent=VLC
+http://297762590384321115.of1207.xyz:80/play/ja125625/M4SthppsWMF/321115.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="SPANISH",SYFY HD
 http://297762590384321422.of1207.xyz:80/play/ja125625/M4SthppsWMF/321422.ts|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPANISH",
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="MTV ESPAÑA" tvg-logo="" group-title="SPANISH",MTV ESPAÑA
 http://297762590384541475.of1207.xyz:80/play/ja125625/M4SthppsWMF/541475.ts|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPANISH",
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="" group-title="SPANISH",Neox
 http://297762590384321374.of1207.xyz:80/play/ja125625/M4SthppsWMF/321374.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="Atreseries HD" tvg-logo="" group-title="SPANISH",Atreseries
 http://297762590384648164.of1207.xyz:80/play/ja125625/M4SthppsWMF/648164.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="Energy" tvg-logo="" group-title="SPANISH",Energy
 http://297762590384321238.of1207.xyz:80/play/ja125625/M4SthppsWMF/321238.ts|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPANISH",
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS HD" tvg-logo="" group-title="SPANISH",M.ESTRENOSHD
-http://carre.flysat.live:80/152093736431417/152086561035454/171945|User-Agent=VLC
+http://297762590384321337.of1207.xyz:80/play/ja125625/M4SthppsWMF/321337.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ SUSPENSE HD" tvg-logo="" group-title="SPANISH",M+ Suspense HD
+http://297762590384321334.of1207.xyz:80/play/ja125625/M4SthppsWMF/321334.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M.CineDocRoll" tvg-logo="" group-title="SPANISH",M.CineDoc&Roll
 http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Disney +" tvg-logo="" group-title="SPANISH",Disney+
