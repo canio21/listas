@@ -53,6 +53,8 @@ http://297762590384321317.of1207.xyz:80/play/ja125625/M4SthppsWMF/321317.ts|User
 http://297762590384321331.of1207.xyz:80/play/ja125625/M4SthppsWMF/321331.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M+ Cine Español" tvg-logo="" group-title="SPANISH",M+ Cine Español
 http://297762590384620943.of1207.xyz:80/play/ja125625/M4SthppsWMF/620943.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ Cine" tvg-logo="" group-title="SPANISH",M+ Cine
+http://297762590384559513.of1207.xyz:80/play/ja125625/M4SthppsWMF/559513.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="SPANISH",TCM HD
 http://297762590384321425.of1207.xyz:80/play/ja125625/M4SthppsWMF/321425.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="SPANISH",HOLLYWOODHD
