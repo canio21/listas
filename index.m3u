@@ -75,16 +75,16 @@ http://297762590384246282.of1207.xyz:80/play/ja125625/M4SthppsWMF/246282.ts|User
 http://297762590384165365.of1207.xyz:80/play/ja125625/M4SthppsWMF/165365.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M+ Originales" tvg-logo="" group-title="SPANISH",M+ Originales
 http://297762590384321068.of1207.xyz:80/play/ja125625/M4SthppsWMF/321068.ts|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTE HD" tvg-logo="" group-title="SPANISH",M. DEPORTESHD
-http://carre.flysat.live:80/152093736431417/152086561035454/171939|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 1 HD" tvg-logo="" group-title="SPANISH",M. DEPORTES1HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171938|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 2" tvg-logo="" group-title="SPANISH",M. DEPORTES2
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 3" tvg-logo="" group-title="SPANISH",M. DEPORTES3
-http://carre.flysat.live:80/152093736431417/152086561035454/79272|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="" group-title="SPANISH",M. GOLF HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171959|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES" tvg-logo="" group-title="SPANISH",M+ DEPORTES
+http://297762590384538695.of1207.xyz:80/play/ja125625/M4SthppsWMF/538695.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 2" tvg-logo="" group-title="SPANISH",M+ DEPORTES 2
+http://297762590384538679.of1207.xyz:80/play/ja125625/M4SthppsWMF/538679.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3" tvg-logo="" group-title="SPANISH",M+ DEPORTES3
+http://297762590384538682.of1207.xyz:80/play/ja125625/M4SthppsWMF/538682.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF" tvg-logo="" group-title="SPANISH",M+ GOLF
+http://297762590384268094.of1207.xyz:80/play/ja125625/M4SthppsWMF/268094.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2" tvg-logo="" group-title="SPANISH",M+ GOLF 2
+http://297762590384454216.of1207.xyz:80/play/ja125625/M4SthppsWMF/454216.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="SPANISH",DAZN F1 HD
 http://297762590384165418.of1207.xyz:80/play/ja125625/M4SthppsWMF/165418.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="SPANISH",DAZN 1 HD
@@ -92,23 +92,23 @@ http://297762590384373766.of1207.xyz:80/play/ja125625/M4SthppsWMF/373766.ts|User
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="SPANISH",DAZN 2 HD
 http://297762590384228389.of1207.xyz:80/play/ja125625/M4SthppsWMF/228389.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="SPANISH",DAZN 3 HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171956|User-Agent=VLC
+http://297762590384228393.of1207.xyz:80/play/ja125625/M4SthppsWMF/228393.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="SPANISH",DAZN 4 HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171955|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1HD" tvg-logo="" group-title="SPANISH", EUROSPORT1HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171968|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT2HD" tvg-logo="" group-title="SPANISH",EUROSPORT2HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171966|User-Agent=VLC
+http://297762590384228397.of1207.xyz:80/play/ja125625/M4SthppsWMF/228397.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="SPANISH", EUROSPORT 1
+http://297762590384290348.of1207.xyz:80/play/ja125625/M4SthppsWMF/290348.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="SPANISH",EUROSPORT 2
+http://297762590384290351.of1207.xyz:80/play/ja125625/M4SthppsWMF/290351.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" group-title="SPANISH",GOL
-http://carre.flysat.live:80/152093736431417/152086561035454/171965|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="Teledeporte FULL HD" tvg-logo="" group-title="SPANISH",Teledeporte FULL HD
-http://carre.flysat.live:80/152093736431417/152086561035454/79275|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="SPANISH",CAZAyPESCA HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171977|User-Agent=VLC
+http://297762590384340039.of1207.xyz:80/play/ja125625/M4SthppsWMF/340039.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte" tvg-logo="" group-title="SPANISH",Teledeporte
+http://297762590384538769.of1207.xyz:80/play/ja125625/M4SthppsWMF/538769.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA" tvg-logo="" group-title="SPANISH",CAZAyPESCA
+http://297762590384321169.of1207.xyz:80/play/ja125625/M4SthppsWMF/321169.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="SPANISH",IBERALIA TV
 http://297762590384394391.of1207.xyz:80/play/ja125625/M4SthppsWMF/394391.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" group-title="SPANISH",TOROS HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171962|User-Agent=VLC
+http://297762590384321445.of1207.xyz:80/play/ja125625/M4SthppsWMF/321445.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV HD" tvg-logo="" group-title="SPANISH",Realmadrid TV HD
 http://carre.flysat.live:80/152093736431417/152086561035454/79299|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="Barca tv" tvg-logo="" group-title="SPANISH",Barca tv
@@ -171,3 +171,5 @@ http://297762590384321476.of1207.xyz:80/play/ja125625/M4SthppsWMF/321476.ts|User
 http://297762590384323210.of1207.xyz:80/play/ja125625/M4SthppsWMF/323210.ts/79332|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="MTV OOs" tvg-logo="" group-title="SPANISH",MTV OOs
 http://297762590384464391.of1207.xyz:80/play/ja125625/M4SthppsWMF/464391.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 1 HD" tvg-logo="" group-title="SPANISH",M. DEPORTES1HD
+http://carre.flysat.live:80/152093736431417/152086561035454/171938|User-Agent=VLC
