@@ -45,30 +45,26 @@ http://297762590384648164.of1207.xyz:80/play/ja125625/M4SthppsWMF/648164.ts|User
 http://297762590384321238.of1207.xyz:80/play/ja125625/M4SthppsWMF/321238.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M+ SUSPENSE HD" tvg-logo="" group-title="SPANISH",M+ Suspense HD
 http://297762590384321334.of1207.xyz:80/play/ja125625/M4SthppsWMF/321334.ts|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M.CineDocRoll" tvg-logo="" group-title="SPANISH",M.CineDoc&Roll
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Disney +" tvg-logo="" group-title="SPANISH",Disney+
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="" group-title="SPANISH",M. ACCIÓN HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171949|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA HD" tvg-logo="" group-title="SPANISH",M.COMEDIA HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171947|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA HD" tvg-logo="" group-title="SPANISH",M. DRAMA HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171946|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. Cine Español" tvg-logo="" group-title="SPANISH",M. Cine Español
-http://carre.flysat.live:80/152093736431417/152086561035454/171948|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION HD" tvg-logo="" group-title="SPANISH",M+ ACCIÓN HD
+http://297762590384321305.of1207.xyz:80/play/ja125625/M4SthppsWMF/321305.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA HD" tvg-logo="" group-title="SPANISH",M+COMEDIA HD
+http://297762590384321317.of1207.xyz:80/play/ja125625/M4SthppsWMF/321317.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA HD" tvg-logo="" group-title="SPANISH",M+ DRAMA HD
+http://297762590384321331.of1207.xyz:80/play/ja125625/M4SthppsWMF/321331.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ Cine Español" tvg-logo="" group-title="SPANISH",M+ Cine Español
+http://297762590384620943.of1207.xyz:80/play/ja125625/M4SthppsWMF/620943.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="SPANISH",TCM HD
-http://carre.flysat.live:80/152093736431417/152086561035454/|User-Agent=VLC
+http://297762590384321425.of1207.xyz:80/play/ja125625/M4SthppsWMF/321425.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="SPANISH",HOLLYWOODHD
-http://carre.flysat.live:80/152093736431417/152086561035454/172011|User-Agent=VLC
+http://297762590384374678.of1207.xyz:80/play/ja125625/M4SthppsWMF/374678.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" group-title="SPANISH",SUNDANCE TV
 http://297762590384321418.of1207.xyz:80/play/ja125625/M4SthppsWMF/321418.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="" group-title="SPANISH",PARAMOUNT
 http://297762590384321392.of1207.xyz:80/play/ja125625/M4SthppsWMF/321392.ts|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" group-title="SPANISH",M. LaLiga HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD" tvg-logo="" group-title="SPANISH",M+ LaLiga HD
 http://297762590384165385.of1207.xyz:80/play/ja125625/M4SthppsWMF/165385.ts|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 1 HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171953|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion" tvg-logo="" group-title="SPANISH",LaLiga TV Hypermotion
+http://297762590384571903.of1207.xyz:80/play/ja125625/M4SthppsWMF/571903.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 2 HD
 http://carre.flysat.live:80/152093736431417/152086561035454/171952|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 3 HD
