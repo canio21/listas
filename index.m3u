@@ -173,3 +173,7 @@ http://297762590384464391.of1207.xyz:80/play/ja125625/M4SthppsWMF/464391.ts|User
 http://297762590384558669.of1207.xyz:80/play/ja125625/M4SthppsWMF/558669.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M+ PLUS 2" tvg-logo="" group-title="SPANISH",M+ PLUS 2
 http://297762590384626247.of1207.xyz:80/play/ja125625/M4SthppsWMF/626247.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ Terror" tvg-logo="" group-title="SPANISH",M+ Terror
+http://297762590384673310.of1207.xyz:80/play/ja125625/M4SthppsWMF/673310.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="M+ Documentales" tvg-logo="" group-title="SPANISH",M+ Documentales
+http://297762590384552954.of1207.xyz:80/play/ja125625/M4SthppsWMF/552954.ts|User-Agent=VLC
