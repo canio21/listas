@@ -65,10 +65,10 @@ http://297762590384321392.of1207.xyz:80/play/ja125625/M4SthppsWMF/321392.ts|User
 http://297762590384165385.of1207.xyz:80/play/ja125625/M4SthppsWMF/165385.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion" tvg-logo="" group-title="SPANISH",LaLiga TV Hypermotion
 http://297762590384571903.of1207.xyz:80/play/ja125625/M4SthppsWMF/571903.ts|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 2 HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171952|User-Agent=VLC
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3 HD" tvg-logo="" group-title="SPANISH",M. LaLiga 3 HD
-http://carre.flysat.live:80/152093736431417/152086561035454/171951|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga" tvg-logo="" group-title="SPANISH",DAZN LaLiga
+http://297762590384320782.of1207.xyz:80/play/ja125625/M4SthppsWMF/320782.ts|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 2" tvg-logo="" group-title="SPANISH",DAZN LaLiga 2
+http://297762590384320780.of1207.xyz:80/play/ja125625/M4SthppsWMF/320780.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES
 http://297762590384246282.of1207.xyz:80/play/ja125625/M4SthppsWMF/246282.ts|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON1" tvg-logo="" group-title="SPANISH",M.LCAMPEON1
